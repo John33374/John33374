@@ -69,7 +69,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JohnBreyner/JohnBreyner/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/John33374/John33374/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
